@@ -1,0 +1,8 @@
+modalID: 5
+title: Employee Activity Club
+date: 2014
+img: 5.jpg
+client: Self
+clientLink: "#"
+category: CMS
+description: The employee activity club is a sample application I developed to fulfill the need of an organization that organizes monthly activities and giveaways.  It provided a CMS interface for managing content behind the scenes and restricted access to certain features based on an authorization scheme.  This was an early project to sharpen my development abilities.

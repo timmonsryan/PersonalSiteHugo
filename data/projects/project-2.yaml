@@ -1,0 +1,8 @@
+modalID: 2
+title: ThreadFix + Docker
+img: 2.jpg
+date: 2015
+client: Denim Group
+clientLink: "http://www.denimgroup.com"
+category: Automation
+description: I developed the ThreadFix + Docker system during my time at Denim Group.  I envisioned and created this project after reading the fantastic book by James Turnbull, [The Docker Book](http://www.amazon.com/Docker-Book-Containerization-new-virtualization-ebook/dp/B00LRROTI4/ref=sr_1_5?ie=UTF8&qid=1452463003&sr=8-5&keywords=docker), one weekend.  I wrote a blog article giving an overview of the system, which was published on [Denim Group's blog](http://www.denimgroup.com/blog/denim_group/2016/01/how-the-threadfix-team-uses-docker-for-qa-and-support.html) and featured in [Docker's weekly newsletter](https://goto.docker.com/Docker-Weekly-01062016.html).

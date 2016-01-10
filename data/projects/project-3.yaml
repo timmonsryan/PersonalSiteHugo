@@ -1,0 +1,8 @@
+modalID: 3
+title: Tionscadal
+date: 2015
+img: 3.jpg
+client: Denim Group
+clientLink: "http://www.denimgroup.com"
+category: Project Management
+description: Tionscadal was an internal project I worked on while at Denim Group.  The application provided useful management tools for tracking consulting projects, device inventory, and developer assignments.  I worked with technologies like Python, the Django framework, Postgres, Vagrant, and jQuery.

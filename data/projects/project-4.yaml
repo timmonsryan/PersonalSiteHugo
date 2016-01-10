@@ -1,0 +1,8 @@
+modalID: 4
+title: Grapevine
+date: 2015
+img: 4.jpg
+client: Denim Group
+clientLink: "http://www.denimgroup.com"
+category: Employee Group Management
+description: Grapevine was an internal project I worked on while at Denim Group.  The application allowed employees to track their participation in work groups, as well as displaying information about upcoming events and keeping track of stats like volunteer hours.  On this project, I worked with the technologies of the MEAN stack, including Mongo, Express, Angular, and Node.

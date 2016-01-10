@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryan Timmons</title>
+    <link>http://www.ryantimmonsdev.com/</link>
+    <description>Recent content on Ryan Timmons</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Jan 2016 12:38:08 -0600</lastBuildDate>
+    <atom:link href="http://www.ryantimmonsdev.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://www.ryantimmonsdev.com/about/</link>
+      <pubDate>Sun, 10 Jan 2016 12:38:08 -0600</pubDate>
+      
+      <guid>http://www.ryantimmonsdev.com/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;about:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;About&lt;/h2&gt;
+
+&lt;p&gt;My name is Ryan Timmons, and I have a talent for developing performant software and web applications.
+I am a software developer in the San Antonio area. During my career, I have built-up a solid foundation of experience that enables me to develop solutions to challenging development problems.&lt;/p&gt;
+
+&lt;p&gt;I place a heavy emphasis on continuing education, as well as exploring new technologies and approaches. I have no issue operating in unknown waters and embrace the challenge.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve come into contact with a wide variety of development tools, languages, and frameworks, and I&amp;rsquo;ve made sure to employ and familiarize myself with many of these tools. This has run the gamut with everything from client-side essentials (HTML, CSS, JavaScript, JSP) to back-end frameworks (SpringMVC, Ruby on Rails, Express) and many things in between.&lt;/p&gt;
+
+&lt;p&gt;I enjoy working with a team that is as dedicated and passionate about software engineering as I am. I enjoy building things and seeing a plan come together, and my work is a natural extension of that.&lt;/p&gt;
+
+&lt;p&gt;When I&amp;rsquo;m not developing software, I like to play racketball, support the live music scene, and catch the latest movies. In my free time I also enjoy tinkering with new projects or gadgets and staying active in the San Antonio development community.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

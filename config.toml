@@ -1,0 +1,121 @@
+baseurl = "http://www.ryantimmonsdev.com/"
+languageCode = "en-us"
+title = "Ryan Timmons"
+theme = "creative"
+
+[params]
+
+	# You can use Markdown syntax for urls [text](//url.to/source) for
+	# most longer texts.
+
+	# All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
+	# for more icons. The icons are represented by their corresponding
+	# CSS class.
+ 
+	# All projects of the portfolio are defined in their own files.
+	# You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
+	# folder into the 'data' directory at the root of this Hugo site.
+	# For more informtion take a look at the README.
+
+	# To provide some metadata for search engines feel free to add a few
+    # information about you and your website.
+	name = "Ryan Timmons"
+	description = "Software Engineer with Experience in Web and Mobile Development"
+
+	# The path must be relative to the static folder
+	favicon = "favicon.ico"
+
+
+	# Navigation
+	[params.navigation]
+		brand = "Ryan Timmons"
+
+		[params.navigation.links]
+			about     = "About"
+			services  = "Tools"
+			portfolio = "Projects"
+			contact   = "Contact"
+
+
+	# Hero section
+	[params.hero]
+		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
+		slogan     = "Engineering software solutions is my passion."
+		subtitle   = "The portion during work hours is my career."
+		buttonText = "Check Out My Experience"
+
+
+	# About section
+	[params.about]
+		headline    = "My name is Ryan Timmons, and I have a talent for developing mobile and web applications."
+		description = "I discovered my passion and knack for software engineering while writing macros and scripts in order to automate daily tasks for my accounting internship.  I observed software's power to solve everyday problems and I experienced the satisfaction of crafting those solutions.  Shortly after graduating from a top business program at the University of Texas, I pursued a career in software development and architecture.  My drive and energy has exposed me to many languages, tools, frameworks, and development methodologies.  Every day, I'm thrilled to create applications that change the face of business and user interaction."
+		buttonText  = "My GitHub"
+
+
+	# Service section
+	[params.services]
+		headline = "Tools of the Trade"
+
+        [[params.services.list]]
+            icon = "fa-server"
+            title = "Back End"
+            description = "I've worked with MVC frameworks like Spring, Rails, Express, and Django.  I also have some familiarity with Scala and have managed asynchronous processes."
+
+		[[params.services.list]]
+            icon = "fa-android"
+            title = "Mobile"
+            description = "I am excited about the opportunities I'll have to work on Android projects and look forward to exploring that ecosystem."
+
+        [[params.services.list]]
+			icon = "fa-database"
+			title = "Database"
+			description = "I have a solid amount of experience with relational databases.  I have also interacted with NoSQL databases like Mongo, and I am no stranger to utilizing ORMs or crafting migrations."
+
+        [[params.services.list]]
+            icon = "fa-code"
+            title = "Automation"
+            description = "I have a good deal of experience with things like Jenkins Continuous Integration Suite, and I have configured and stood-up automated workflows involving source code management and security scanning, among other areas."
+
+        [[params.services.list]]
+			icon = "fa-pencil-square-o"
+			title = "UI & Design"
+			description = "I'm always interested in front-end design developments, and I strive to make my applications easy on the eyes and easy to interact with."
+
+        [[params.services.list]]
+			icon = "fa-desktop"
+			title = "Dev Ops"
+			description = "I've configured a number of environments for various uses while working on software projects.  I make every effort to keep my Unix and Ops skills sharp."
+
+        [[params.services.list]]
+			icon = "fa-dashboard"
+			title = "Testing"
+			description = "I've overseen and developed on several large testing initiatives.  I've also employed test-driven development principles in the past.  Tools include jUnit and Selenium."
+
+        [[params.services.list]]
+			icon = "fa-send-o"
+			title = "Deployment"
+			description = "I've defined and implemented build procedures for creating customer deliverables.  Additionally, I've submitted input for support documentation and best practices."
+
+
+    # Portfolio modals
+	[params.portfolio.modal]
+        client = "Organization"
+        date = "Date"
+        category = "Category"
+        buttonText = "Close"
+
+    # Aside section
+	[params.aside]
+		headline = "Check Out My Blog!"
+
+		[params.aside.button]
+			text = "Seek and Deploy"
+			link = "https://seekanddeploy.wordpress.com/"
+
+	# Contact section
+	[params.contact]
+		headline = "Thank You for Stopping By!"
+		description = "There is much more information about my experience on my LinkedIn page.  Also be sure to follow me on Twitter at [@timmonsryan](https://twitter.com/timmonsryan) if you want to see more on my day-to-day."
+		linkedin = "timmonsryan"
+		linkedinLink = "https://www.linkedin.com/in/timmonsryan"
+		email = "timmonsryan@ymail.com"

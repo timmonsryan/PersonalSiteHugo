@@ -1,0 +1,8 @@
+modalID: 6
+title: RecordStore
+date: 2014
+img: 6.jpg
+client: Self
+clientLink: "#"
+category: Collection Management
+description: This was my first foray into end-to-end development and deployment of an application built on an MVC framework.  This application allowed users to manage a collection of their records and see various information about the albums in their choice of layout.  The application was built in Ruby on Rails, and used a Postgres database with jQuery on the front-end.  This application is extremely primitive by my current standards, but it kicked off an avalanche of progress afterward.
